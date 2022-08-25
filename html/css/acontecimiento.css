@@ -1,0 +1,103 @@
+.cabecera_menu,
+.cabecera_menu a:link,
+.cabecera_menu a:visited,
+.cabecera_menu a:active,
+.cabecera_menu a:hover {
+	font-family:arial,helvetica,tahoma,sans-serif;
+	font-size:11px;
+	color: #FFFFFF;
+	padding: 4px;
+	text-decoration: none;
+}
+
+.txt,
+.txt a:link,
+.txt a:visited,
+.txt a:active,
+.txt a:hover {
+	font-family:arial,helvetica,tahoma,sans-serif;
+	font-size:11px;
+	color: #000033;
+	text-decoration: none;
+}
+
+.num,
+.num a:link,
+.num a:visited,
+.num a:active,
+.num a:hover {
+	font-family:arial,helvetica,tahoma,sans-serif;
+	font-size:22px;
+	color: #000033;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.titular,
+.titular a:link,
+.titular a:visited,
+.titular a:active {
+	font-family:arial,helvetica,tahoma,sans-serif;
+	font-size:11px;
+	color: #000033;
+	text-decoration: none;
+}
+.titular a:hover {
+	font-family:arial,helvetica,tahoma,sans-serif;
+	font-size:11px;
+	color: #000033;
+	text-decoration: underline;
+}
+
+.fecha {
+	font-family:arial,helvetica,tahoma,sans-serif;
+	font-size:xx-small;
+	color: #000033;
+	text-decoration: none;
+}
+
+.datos_titular{
+	font-family: arial,helvetica,tahoma,sans-serif;
+	font-size: 12px;
+	color: white;
+	font-weight: bold;
+	background-color: #B3B5B8;
+	text-decoration: none;
+	border-bottom:1px solid white;
+}
+
+.datos_claro{
+	font-family: arial,helvetica,tahoma,sans-serif;
+	font-size: 11px;
+	color: #333333;
+	font-weight: normal;
+	background-color: #F0F0F0;
+	text-decoration: none;
+	border-bottom:1px solid #D8D8DA;
+	vertical-align: top;
+}
+.datos_claro a:active,
+.datos_claro a:link,
+.datos_claro a:visited{
+	font-family: arial,helvetica,tahoma,sans-serif;
+	font-size: 11px;
+	color: #333333;
+	font-weight: normal;
+	background-color: #F0F0F0;
+	text-decoration: none;
+}
+.datos_claro a:hover{
+	text-decoration: underline;
+}
+
+
+h1{
+	font-family: arial,helvetica,tahoma,sans-serif;
+	font-size: 22px;
+	color: #000066;
+	font-weight: normal;
+	padding: 2px 0px 2px 0px;
+	text-decoration: none;
+	border-bottom:4px solid #D8D8DA;
+	width: 100%;
+}
